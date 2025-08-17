@@ -92,7 +92,7 @@ body {
   background:
     radial-gradient(1200px 400px at 50% 80%, rgba(255,215,0,0.08), transparent 60%),
     linear-gradient(180deg, rgba(255,215,0,0.05), rgba(0,0,0,0) 40%),
-    url("./Img/coverimage3.jpg") center/cover no-repeat;
+    url("Img/coverimage3.jpg") center/cover no-repeat;
 }
 .hero-overlay{ position:absolute; inset:0; background: radial-gradient(ellipse at center, rgba(0,0,0,.25), rgba(0,0,0,.75)); }
 .hero-inner{ position:relative; text-align:center; max-width:900px; padding:0 18px; }
